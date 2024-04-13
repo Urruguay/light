@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\04.08.2024\ExampleFriday\bin\Debug\ExampleFriday.exe.config
+C:\Users\Kab-31-13\Desktop\04.08.2024\ExampleFriday\bin\Debug\ExampleFriday.exe
+C:\Users\Kab-31-13\Desktop\04.08.2024\ExampleFriday\bin\Debug\ExampleFriday.pdb
+C:\Users\Kab-31-13\Desktop\04.08.2024\ExampleFriday\obj\Debug\ExampleFriday.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\04.08.2024\ExampleFriday\obj\Debug\ExampleFriday.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\04.08.2024\ExampleFriday\obj\Debug\ExampleFriday.exe
+C:\Users\Kab-31-13\Desktop\04.08.2024\ExampleFriday\obj\Debug\ExampleFriday.pdb
