@@ -1,0 +1,14 @@
+C:\Users\Kab-35-6\Desktop\04.12.2024\Task_5\bin\Debug\Task_5.exe.config
+C:\Users\Kab-35-6\Desktop\04.12.2024\Task_5\bin\Debug\Task_5.exe
+C:\Users\Kab-35-6\Desktop\04.12.2024\Task_5\bin\Debug\Task_5.pdb
+C:\Users\Kab-35-6\Desktop\04.12.2024\Task_5\obj\Debug\Task_5.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\04.12.2024\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\04.12.2024\Task_5\obj\Debug\Task_5.exe
+C:\Users\Kab-35-6\Desktop\04.12.2024\Task_5\obj\Debug\Task_5.pdb
+C:\Users\Викка\Desktop\04.12.2024\Task_5\bin\Debug\Task_5.exe.config
+C:\Users\Викка\Desktop\04.12.2024\Task_5\bin\Debug\Task_5.exe
+C:\Users\Викка\Desktop\04.12.2024\Task_5\bin\Debug\Task_5.pdb
+C:\Users\Викка\Desktop\04.12.2024\Task_5\obj\Debug\Task_5.csproj.AssemblyReference.cache
+C:\Users\Викка\Desktop\04.12.2024\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\Викка\Desktop\04.12.2024\Task_5\obj\Debug\Task_5.exe
+C:\Users\Викка\Desktop\04.12.2024\Task_5\obj\Debug\Task_5.pdb
