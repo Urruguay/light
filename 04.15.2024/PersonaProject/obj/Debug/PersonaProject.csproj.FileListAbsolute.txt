@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\04.15.2024\PersonaProject\bin\Debug\PersonaProject.exe.config
+C:\Users\Kab-35-6\Desktop\04.15.2024\PersonaProject\bin\Debug\PersonaProject.exe
+C:\Users\Kab-35-6\Desktop\04.15.2024\PersonaProject\bin\Debug\PersonaProject.pdb
+C:\Users\Kab-35-6\Desktop\04.15.2024\PersonaProject\obj\Debug\PersonaProject.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\04.15.2024\PersonaProject\obj\Debug\PersonaProject.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\04.15.2024\PersonaProject\obj\Debug\PersonaProject.exe
+C:\Users\Kab-35-6\Desktop\04.15.2024\PersonaProject\obj\Debug\PersonaProject.pdb
