@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\04.19.2024\04.22.2024\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\Kab-31-13\Desktop\04.19.2024\04.22.2024\Task_1\bin\Debug\Task_1.exe
+C:\Users\Kab-31-13\Desktop\04.19.2024\04.22.2024\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Kab-31-13\Desktop\04.19.2024\04.22.2024\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\04.19.2024\04.22.2024\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\04.19.2024\04.22.2024\Task_1\obj\Debug\Task_1.exe
+C:\Users\Kab-31-13\Desktop\04.19.2024\04.22.2024\Task_1\obj\Debug\Task_1.pdb
