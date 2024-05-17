@@ -1,0 +1,7 @@
+\\Serv31\для сохранения работ\215 группа\Шурдук Виктория\05.17.2024\Task_1\bin\Debug\Task_1.exe.config
+\\Serv31\для сохранения работ\215 группа\Шурдук Виктория\05.17.2024\Task_1\bin\Debug\Task_1.exe
+\\Serv31\для сохранения работ\215 группа\Шурдук Виктория\05.17.2024\Task_1\bin\Debug\Task_1.pdb
+\\Serv31\для сохранения работ\215 группа\Шурдук Виктория\05.17.2024\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+\\Serv31\для сохранения работ\215 группа\Шурдук Виктория\05.17.2024\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+\\Serv31\для сохранения работ\215 группа\Шурдук Виктория\05.17.2024\Task_1\obj\Debug\Task_1.exe
+\\Serv31\для сохранения работ\215 группа\Шурдук Виктория\05.17.2024\Task_1\obj\Debug\Task_1.pdb
