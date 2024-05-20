@@ -1,0 +1,7 @@
+C:\Users\Irina\Desktop\4 семестр\ОАиП\light\05.20.2024\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\Irina\Desktop\4 семестр\ОАиП\light\05.20.2024\Task_1\bin\Debug\Task_1.exe
+C:\Users\Irina\Desktop\4 семестр\ОАиП\light\05.20.2024\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Irina\Desktop\4 семестр\ОАиП\light\05.20.2024\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\light\05.20.2024\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\light\05.20.2024\Task_1\obj\Debug\Task_1.exe
+C:\Users\Irina\Desktop\4 семестр\ОАиП\light\05.20.2024\Task_1\obj\Debug\Task_1.pdb
